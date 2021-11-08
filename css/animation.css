@@ -1,0 +1,17 @@
+/* 간단한 애니메이션을 만들떄 from to, 0% 100%는 좀더 세밀 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
+}
