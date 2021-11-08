@@ -4,4 +4,4 @@
 - 결과값의 동물이 당신과 닮았다는것은 아닙니다.🤣
 - 재미로 하십시오.😃😃✨
 
-[호스팅주소](https://github.com/shallwecoffee/12GOD.git)
+[호스팅주소](https://shallwecoffee.github.io/12GOD/)
